@@ -1,0 +1,4 @@
+sample_id,read1,read2
+rep1,https://github.com/kothaiRaja/Praktikum/raw/refs/heads/main/data/reads/rep1_1.fq.gz,https://github.com/kothaiRaja/Praktikum/raw/refs/heads/main/data/reads/rep1_2.fq.gz
+rep2,https://github.com/kothaiRaja/Praktikum/raw/refs/heads/main/data/reads/rep2_1.fq.gz,https://github.com/kothaiRaja/Praktikum/raw/refs/heads/main/data/reads/rep2_2.fq.gz
+
